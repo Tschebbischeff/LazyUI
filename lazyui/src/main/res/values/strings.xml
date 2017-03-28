@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">LazyUI</string>
+    <string name="content_page_empty_text">The class handling this content page does not include a valid XML resource!</string>
 </resources>
